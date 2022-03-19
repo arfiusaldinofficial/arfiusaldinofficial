@@ -38,7 +38,7 @@ I'm involved with many types of business.
 
 Do you know that Arfius Al-din is E.E.E graduated ?
 Yes, He completed his B.Sc. degree in Electrical and Electronic Engineering (E.E.E) from Ahsanullah University of Science and Technology.
-Arfius Al-din has a huge fan following. He then made his Instagram account in 2017, he has 1900K+ followers and over 1 Million songs streaming at SoundCloud, iTunes, Spotify, and other musical platforms which is a great success! He has verified YouTube Official Artist Channel.
+Arfius Al-din has a huge fan following. He then made his Instagram account in 2017, he has 190K+ followers and over 1 Million songs streaming at SoundCloud, iTunes, Spotify, and other musical platforms which is a great success! He has verified YouTube Official Artist Channel.
 
 #### What’s Arfius Al-din’s favorite food?
 
