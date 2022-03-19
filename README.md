@@ -1,10 +1,11 @@
 Welcome to my portfolio                
 
 Hi, I'm Arfius Al-din!
-====================
+====================!   
+<img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
 
 I am an entrepreneur
-------------------------------
+------------------------------  
 
 [More about me](https://arfiusaldinofficial.github.io/portfolio/)
 
@@ -20,6 +21,9 @@ I am an entrepreneur
 ##### Welcome to my portfolio
 
 ### Let's be familiar, I am Arfius
+
+
+
 
 ###### A Bangladeshi Entrepreneur 
 
