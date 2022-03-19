@@ -2,23 +2,13 @@
 *   [Home](https://arfiusaldinofficial.github.io/portfolio/index.html)
 *   [About](https://arfiusaldinofficial.github.io/portfolio/service.html)
 *   [Resume](https://arfiusaldinofficial.github.io/portfolio/resume.html)
-*   [Services](https://sankarbala.github.io/portfolio/#services)
+*   [Services](https://arfiusaldinofficial.github.io/portfolio/service.html)
 *   [Portfolio](https://instagram.com/arfiusaldin)
 *   [Contact](https://arfiusaldinofficial.github.io/portfolio/contact.html)
 *   [More about me](https://arfiusaldinofficial.github.io/portfolio/)
 
-
-
-
-
-
-## Let's be familiar, I am Arfius Al-din
-
-<img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
-
-
-#### A Bangladeshi Entrepreneur 
-
+### Hi there 👋, my name is Arfius Al-din
+#### A Bangladeshi Entrepreneur. 
 I'm involved with many types of business.
 
 *Projects* I'm the founder and co-founder of than 8 businesses.
@@ -29,9 +19,33 @@ I'm involved with many types of business.
 
 *Consultancy* I did consultancy more that 10+ companies. 
 
+![A Bangladeshi Entrepreneur](https://pbs.twimg.com/media/FOO65mNagAEbljL?format=jpg&name=medium)
+
+My curiosity pushes me to explore innovative things to do and I always do consider, my success as an inspiration and my failure as a new experience.
+
+Skills: C++ / JS / HTML / CSS
+
+- 🔭 I’m currently working on arfiuscollection.com 
+- 👯 I’m looking to collaborate on e-paikaribd.com 
+- 📫 How to reach me: arfiusaldin.official@gmail.com 
+<img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arfiusaldinofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arfius-al-din-50759017b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/IamArfius)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arfiusaldin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arfiusaldin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/arfiusaldin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.arfiusaldin.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/4rc05NPCd0dqbjouGstONT)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arfiusaldinofficial)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=arfiusaldinofficial&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=arfiusaldinofficial)  
+
+![Profile views](https://gpvc.arturio.dev/arfiusaldinofficial)  
 
 
 
+
+## Let's be familiar, I am Arfius Al-din
 
 #### Interesting Facts:
 
@@ -54,3 +68,5 @@ Including him, Arfius Al-din have four family members. His father, Md. Alauddin 
 
 
 © Copyright *Arfius Al-din*. All Rights Reserved
+
+
