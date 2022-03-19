@@ -25,7 +25,7 @@ I am an entrepreneur
 
 I'm involved with many types of business.
 
-*Projects* I'm the founder and co-founder of than 8 business successfully.
+*Projects* I'm the founder and co-founder of than 8 business.
 
 *Quotes:* My curiosity pushes myself to explore innovative things to do and I always do consider, my success as an inspiration and my failure as a new experience.
 
