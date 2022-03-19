@@ -9,8 +9,9 @@
 
 ## Hi there 👋, Here is Arfius Al-din
 <img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
+Bangladeshi Entrepreneur
 
-#### Bangladeshi Entrepreneur
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/arfiusaldinofficial)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arfius-al-din-50759017b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/IamArfius)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/arfiusaldin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/arfiusaldin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/arfiusaldin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.arfiusaldin.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/4rc05NPCd0dqbjouGstONT)  
 Skills: C++ / JS / HTML / CSS
 - 🔭 He is currently working on arfiuscollection.com 
