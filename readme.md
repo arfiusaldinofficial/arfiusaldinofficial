@@ -12,7 +12,7 @@
 
 
 
-## Let's be familiar, I am Arfius AL-din
+## Let's be familiar, I am Arfius Al-din
 
 <img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
 
