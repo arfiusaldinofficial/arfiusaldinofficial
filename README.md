@@ -1,31 +1,23 @@
-Welcome to my portfolio                
-
-Hi, I'm Arfius Al-din!
-====================!   
-<img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
-
-I am an entrepreneur
-------------------------------  
-
-[More about me](https://arfiusaldinofficial.github.io/portfolio/)
-
-
-
+# Welcome to my portfolio
 *   [Home](https://arfiusaldinofficial.github.io/portfolio/index.html)
 *   [About](https://arfiusaldinofficial.github.io/portfolio/service.html)
 *   [Resume](https://arfiusaldinofficial.github.io/portfolio/resume.html)
 *   [Services](https://sankarbala.github.io/portfolio/#services)
 *   [Portfolio](https://instagram.com/arfiusaldin)
 *   [Contact](https://arfiusaldinofficial.github.io/portfolio/contact.html)
-
-##### Welcome to my portfolio
-
-### Let's be familiar, I am Arfius
+*   [More about me](https://arfiusaldinofficial.github.io/portfolio/)
 
 
 
 
-###### A Bangladeshi Entrepreneur 
+
+
+## Let's be familiar, I am Arfius AL-din
+
+<img src="https://user-images.githubusercontent.com/101731020/159130098-054e9d1f-4579-4487-9eae-361ffbb41833.jpg" width=30% height=30%>
+
+
+#### A Bangladeshi Entrepreneur 
 
 I'm involved with many types of business.
 
