@@ -41,7 +41,7 @@ Skills: C++ / JS / HTML / CSS
 
 #### Do you know that Arfius Al-din is E.E.E graduated ?
 Yes, He completed his B.Sc. degree in Electrical and Electronic Engineering (E.E.E) from Ahsanullah University of Science and Technology.
-Arfius Al-din has a huge fan following. He then made his Instagram account in 2017, he has 190K+ followers and over 1 Million songs streaming at SoundCloud, iTunes, Spotify, and other musical platforms which is a great success! He has verified YouTube Official Artist Channel.
+Arfius Al-din has a huge fan following. He then made his Instagram account in 2017, he has 190K+ followers 
 
 #### What’s Arfius Al-din’s favorite food?
 
@@ -52,8 +52,6 @@ Arfius Al-din loves the traditional foods of Bangladesh, and he loves his mom’
 
 Arfius Al-din said, “Listening to the way of life of others and their personal experiences have always inspired many people to achieve success. All people seek to gain more knowledge to develop further their abilities, which is natural for human survival. I love to read the biography of successful people, which gives me great motivation to push forward in my career. “
 
-#### About his family members?
-Including him, Arfius Al-din have four family members. His father, Md. Alauddin Mridha is an Industrialist and Managing Director of Sun Solar Power Plant Ltd., and his Mother, Lutfun Nahar Meeta, is a housewife. He has a younger brother, and his name is Mashrif Al Din.
 
 
 #### His Quotes: 
